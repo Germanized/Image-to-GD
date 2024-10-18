@@ -27,7 +27,7 @@ Before you start, make sure to install the following:
 
 7. **Upload to GitHub**:
    - Open the GitHub site connected to this project.
-   - Input your file into the repository.
+   - Input your file into the repository type 1 for scale.
    - Wait for the system to process and output a new file.
 
 8. **Build with SPWN**:
